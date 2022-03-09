@@ -14,4 +14,4 @@ E-vinjeta je vezana na registrsko označbo vozila. Ob nakupu morate zato navesti
 | ------------- | ------------- |
 | [Naročanje vinjete](https://github.com/KitekMaja/ITA_naloga1/tree/main/microservices/ordering)  | Naročilo mora biti obravnavano v roku 10 minut  |
 | [Preverjanje veljavnosti vozila](https://github.com/KitekMaja/ITA_naloga1/tree/main/microservices/registrationCheck)  | Veljavnost vozila moramo preveriti v roku 120 sekund  |
-| [Pošiljanje potrditvenega sporočila](https://www.google.com "Microservice-send-confirmation-mail")  | Potrditveno sporočilo mora biti poslano v roku ene minute  |
+| [Pošiljanje potrditvenega sporočila](https://github.com/KitekMaja/ITA_naloga1/tree/main/microservices/confirmationEmail)  | Potrditveno sporočilo mora biti poslano v roku ene minute  |
